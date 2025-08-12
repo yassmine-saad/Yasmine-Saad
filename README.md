@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Yasmine Saad
 
 <a href="https://www.linkedin.com/in/yasmine-saad-397749278/">
-  <img src="https://img.shields.io/badge/-Mohamed%20Ali%20Ghouil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-Yasmine%20Saad%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:yassminesaad75@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
