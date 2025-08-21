@@ -1,9 +1,9 @@
 # 👋 Bonjour, je suis Yasmine Saad
 
-<a href="https://www.linkedin.com/in/yasmine-saad-397749278/">
+<a href="https://www.linkedin.com/in/yasmine-saad/">
   <img src="https://img.shields.io/badge/-Yasmine%20Saad%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:yassminesaad75@gmail.com">
+<a href="mailto:yesmiinsaad@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
